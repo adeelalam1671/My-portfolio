@@ -1,0 +1,165 @@
+ body{
+   margin: 0;
+ }
+ .parent{
+   width: 100%;
+  
+
+    background-color: #112E42;
+ }
+ .navbar-nav li{
+        padding: 20px 20px;
+     
+       
+ }
+
+   .nav-brand {
+      margin-top: 30px;
+   }
+   .navbar-nav h3{
+      color:white;
+   }
+   .nav-bg{
+      background-color: #081B29;
+   }
+   .nav-brand a h3{
+      color: white;
+   }
+   .navbar-nav li a{
+      color: white;
+   }
+.myself{
+color: white;
+padding-top: 120px;
+;
+}
+.myself h3{
+  color: #00ABF0;
+    font-size: 40px;
+}
+.myself p{
+   color: #858384;
+   font-size: 15px;
+   
+}
+.myself h1{
+   font-size: 50px;
+}
+.carousel-item  img{
+   border-radius: 30px;
+   
+}
+.carousel-img {
+   width: 70%;
+}
+.myself-button{
+   display: flex;
+  
+}
+.myself-button div{
+   padding-right: 30px;
+   
+}
+.parent2{
+  
+   width: 100%;
+   background-color: #003153;
+}
+.aboutme{
+
+  justify-content: center;
+  padding-top: 80px;
+  color: white;
+ 
+}
+.aboutme div{
+   margin-right: 20px  
+}
+.aboutme div h1{
+   font-size: 50px;
+}
+.about{
+   color:#00ABF0;
+}
+.me-pic{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 40px;
+  
+}
+.me-pic  img{
+   border-radius: 70%;
+   border: 20px #00ABF0 ;
+  padding: 0%;
+  margin-right: 90px;
+}
+.aboutme-details{
+  padding-left:  100px;
+  padding-right:  100px;
+}
+.aboutme-details p{
+   color: #8E8A8A;
+}
+.aboutme-details h3{
+   color: white;
+}
+.parent3{
+   
+   width: 100%;
+   background-color: #112E42;
+}
+.resume{
+   text-align: center;
+   
+}
+.resume h1{
+   color: white;
+   font-size: 60px;
+} 
+.resume p{
+   color: #8E8A83;
+}
+.resume-column{
+   background-color: #003153;
+   border-radius: 30px;
+}
+.resume-column h1{
+  color: #EE00FC; 
+}
+.resume-column h2{
+color: white;
+}
+.resume-column p{
+   color: #8E8A8A;
+}
+.skills-flex{
+   padding-left: 60px;
+   padding-top: 200px;
+ 
+}
+.parent4{
+   background-color: #003153;
+   padding-bottom: 150px;
+}
+.skills-flex p{
+   color: #8E8A8A;
+}
+.skills-flex h2{
+   color: white;
+}
+.skills-flex-rating p{
+   color: white;
+}
+.parent5{
+   background-color: #112E42;
+   
+}
+.contact{
+   text-align: center;
+   color: white;
+   padding-top: 125px;
+}
+.contact-name{
+   color: white;
+}
