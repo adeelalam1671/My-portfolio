@@ -1,2 +1,2 @@
 # My-portfolio
-Animation and responsible website 
+Animation , responsible and bootstrap base  website 
